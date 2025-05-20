@@ -1,9 +1,8 @@
-
 - 👋 Hi, I’m @BennJett aka Ben Gordijn
 - 👀 I’m interested in making products better through product management
 - 🌱 I’m currently learning a bunch of languages on DuoLingo 😊
 - 💞️ I’m looking to collaborate on everything data
-- 📫 How to reach me through SLACK
+- 📫 How to reach me through Slack
 - 😄 Pronouns: He/Him
 
 <!---
